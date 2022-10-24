@@ -1,11 +1,11 @@
 .form__imput {
-    padding: 5px;
+    padding: 10px;
     border: solid #ccc 1px;
 }
 
 .form__button {
     background-color: teal;
-    padding: 5px 10px;
+    padding: 10px 10px;
     border: solid 1px teal;
     color: white;
 }
